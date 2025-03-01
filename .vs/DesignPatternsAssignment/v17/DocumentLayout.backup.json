@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFFD3B3-9314-4731-B48E-778AE7047FF0}|DesignPatternsAssignment\\FactoryPattern.csproj|c:\\users\\shubhi_chourey\\source\\repos\\designpatternsassignment\\designpatternsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFFD3B3-9314-4731-B48E-778AE7047FF0}|DesignPatternsAssignment\\FactoryPattern.csproj|solutionrelative:designpatternsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E272DEBC-A353-4EC0-9B45-9DDED04D96A7}|ObserverPattern\\ObserverPattern.csproj|C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E272DEBC-A353-4EC0-9B45-9DDED04D96A7}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455B1D0A-F327-4F1C-AC62-585921E8E1F0}|BulderPattern\\BulderPattern.csproj|C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\bulderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455B1D0A-F327-4F1C-AC62-585921E8E1F0}|BulderPattern\\BulderPattern.csproj|solutionrelative:bulderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\DesignPatternsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatternsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\DesignPatternsAssignment\\Program.cs",
+              "RelativeToolTip": "DesignPatternsAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:18:37.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "ObserverPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:36:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\BulderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "BulderPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\shubhi_chourey\\source\\repos\\DesignPatternsAssignment\\BulderPattern\\Program.cs",
+              "RelativeToolTip": "BulderPattern\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:24:40.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
